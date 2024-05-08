@@ -14,4 +14,6 @@
   * [中文](/)
   * [En](/zh-en/) -->
 
-* [649导航]	
+* [649导航](https://649w.cc/)
+
+* [编辑此文档](https://vs.649w.cc/?folder=/root/docs)
