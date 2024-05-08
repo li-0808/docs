@@ -1,14 +1,10 @@
 <!-- _coverpage.md -->
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://qiniu.649w.cc/PicGo/649logo_4_%E5%8A%A0%E7%B2%97_256x256.ico)
 
-# 轻量级开源低成本在线文档 
+# 649在线文档中心 
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
 
- 简单、轻便、快捷、低成本
-- 无需生成 html 文件
-- 开箱即用框架
-- 众多主题
 
 
 [Gitee](https://gitee.com/librarycodes/docsify-plus)
