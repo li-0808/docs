@@ -5,8 +5,7 @@
 
 > 一个为您提供全方位帮助的站点
 
-[Gitee](https://gitee.com/librarycodes/docsify-plus)
-[GitHub](https://github.com/shiming-git/docsify-plus)
-[帮助中心](/help/test.md)
-[资源大全](/projects/test)
-[开始](README.md)
+[649导航](https://649w.cc/)
+[帮助中心](/help/)
+[资源大全](/projects/index)
+[开始使用](README.md)
