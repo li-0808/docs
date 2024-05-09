@@ -6,6 +6,7 @@
 > 一个为您提供全方位帮助的站点
 
 
- * [帮助中心](help/test.md)
-[资源大全](projects/test.md)
+ * [帮助中心](/help/test.md)
+[帮助中心](/help/test.md)
+[资源大全](/projects/test)
 [开始](README.md)
