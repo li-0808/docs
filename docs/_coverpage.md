@@ -3,11 +3,9 @@
 
 # 649在线文档中心 
 
-> Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> 一个为您提供全方位帮助的站点
 
 
-
-[Gitee](https://gitee.com/librarycodes/docsify-plus)
-[GitHub](https://github.com/shiming-git/docsify-plus)
-[Docsify官网](https://docsify.js.org/#/)
-[快速开始](README.md)
+ * [帮助中心](help/test)
+[资源大全](projects/test)
+[开始](README.md)
