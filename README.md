@@ -15,4 +15,4 @@
 
 想要快速搭建？可以直接使用一个模板
 本站使用的模板：
-Github地址：https://github.com/shiming-git
+Github地址：https://github.com/shiming-git/docsify-plus
